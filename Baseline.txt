@@ -1,12 +1,12 @@
 <span id="a">wolfniey@root</span>:<span id="b">~</span><span id="c">$</span> cd home/<!-- laglaglaglag -->intro
 <span id="a">wolfniey@root</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglag -->hello world.txt<br/><br/>
-<i><span id = "b">We're all just a ship of fools, chasing phantoms, heedless of what really underwrites natural law</i></span><!-- laglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglag --><br>
+<i><span id = "b">"We're all just a ship of fools, chasing phantoms, heedless of what really underwrites natural law"</i></span><!-- laglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglag --><br>
 
 Hello. My name's Alexander. I'm a school student which enjoys learning and creating different things. Here you can find my projects, information and contacts. Feel free to send me a message!<br>
 
-<span id="a">Alexander@Zhuravlev</span>:<span id="b">~</span><span id="c">$</span> ls<!-- laglaglag --><br>
-> <a href="about.html">About Me</a>, <a href="projects.html">My Projects</a>, <a href="publications.html">My Publications</a><br>
+<span id="a">wolfniey@root</span>:<span id="b">~</span><span id="c">$</span> ls<!-- laglaglag --><br>
+> <a href="index.html">Intro</a>, <a href="about.html">About Me</a>, <a href="projects.html">My Projects</a>, <a href="publications.html">My Publications</a><br>
 
-<span id="a">Alexander@Zhuravlev</span>:<span id="b">~</span><span id="c">$</span> cat contacts.txt<!-- laglaglag --><br>
+<span id="a">wolfniey@root</span>:<span id="b">~</span><span id="c">$</span> cat contacts.txt<!-- laglaglag --><br>
 <a href="https://twitter.com/alexander_tsuru">Twitter</a>, <a href="https://vk.com/wolfniey">VK</a>, <a href="https://www.youtube.com/channel/UCzz-gf0PJeoKqCa9Qy_nMLw?view_as=subscriber">YouTube</a>, <a href="https://t.me/rawyne">Telegram</a>
 email: <a href="wolfniey@gmail.com">wolfniey@gmail.com</a>
