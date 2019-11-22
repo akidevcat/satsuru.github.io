@@ -2,7 +2,9 @@
 
 > Demos:
 
-* MIPT Computer Science - Entry Task
+* <a href="miptcp2019/index.html">MIPT Computer Science - Entry Task</a>
+* <a href="https://rawyne.itch.io/stellarnet">Procjam 2019 - StellarNet</a>
+* <a href="mediahack2019/index.html">Mediahack - Session</a>
 
 > Published:
 

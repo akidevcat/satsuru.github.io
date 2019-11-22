@@ -5,8 +5,9 @@ My major focus is Computer Science. For the moment, I am 17 years old school stu
 > Programming Languages: C#, C++, Python, ShaderLab (Unity)
 
 > Game Engines: Unity
-<br><br>
 
+> Languages: Russian, English
+<br><br>
 <span id="a">wolfniey@root</span>:<span id="b">~</span><span id="c">$</span> ls<!-- laglaglag --><br>
 > <a href="index.html">Intro</a>, <a href="about.html">About Me</a>, <a href="projects.html">My Projects</a><br>
 
