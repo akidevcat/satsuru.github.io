@@ -97,8 +97,8 @@ function replaceUrls(text) {
 	}
 }
 
-Typer.speed=3;
-Typer.file="Publications.txt";
+Typer.speed=10;
+Typer.file="projects.txt";
 Typer.init();
  
 var timer = setInterval("t();", 30);

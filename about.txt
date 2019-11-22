@@ -1,8 +1,11 @@
-<span id="a">wolfniey@root</span>:<span id="b">~</span><span id="c">$</span> cd home/<!-- laglaglaglag -->me
-<span id="a">wolfniey@root</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglag -->intro.txt<br/><br/>
-<i><span id = "b">"We're all just a ship of fools, chasing phantoms, heedless of what really underwrites natural law"</i></span><!-- laglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglag --><br>
+<span id="a">wolfniey@root</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglag -->about.txt<br/><br/>
 
-Hello. My name's Alexander. I'm a school student who enjoys learning and creating different things. Here you can find my projects, information and contacts. Feel free to send me a message!<br>
+My major focus is Computer Science. For the moment, I am 17 years old school student from Russia. As a hobby, I develop some tools and frameworks for the further game development in Unity.
+
+> Programming Languages: C#, C++, Python, ShaderLab (Unity)
+
+> Game Engines: Unity
+<br><br>
 
 <span id="a">wolfniey@root</span>:<span id="b">~</span><span id="c">$</span> ls<!-- laglaglag --><br>
 > <a href="index.html">Intro</a>, <a href="about.html">About Me</a>, <a href="projects.html">My Projects</a><br>

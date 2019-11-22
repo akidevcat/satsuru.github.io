@@ -2,7 +2,7 @@ var Typer={
 	text: null,
 	accessCountimer:null,
 	index:0, 
-	speed:10,
+	speed:2,
 	file:"", 
 	accessCount:0,
 	deniedCount:0, 
@@ -98,7 +98,7 @@ function replaceUrls(text) {
 }
 
 Typer.speed=10;
-Typer.file="Baseline.txt";
+Typer.file="about.txt";
 Typer.init();
  
 var timer = setInterval("t();", 30);

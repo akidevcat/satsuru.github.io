@@ -1,7 +1,0 @@
-<span id="a">wolfniey@root</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglag -->publications.txt<br/><br/>
-
-<a href="http://www.procjam.com/seeds/issues/4/issue4.pdf">SEEDS, 2019 - Procedural Real Scale Planets in Real-Time</a>
-<br><br>
-
-<span id="a">wolfniey@root</span>:<span id="b">~</span><span id="c">$</span> ls<!-- laglaglag --><br>
-> <a href="index.html">Intro</a>, <a href="about.html">About Me</a>, <a href="projects.html">My Projects</a>, <a href="publications.html">My Publications</a><br>
