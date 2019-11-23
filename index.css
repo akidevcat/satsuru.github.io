@@ -1,10 +1,10 @@
 body {
-	background-color: #1f1f1f
+	background-color: #241d28
 }
 
 #console {
 	font-family: courier, monospace;
-	color: #ff9617;
+	color: #e0b8ff;
 	width:750px;
 	margin-left:auto;
 	margin-right:auto;
@@ -17,15 +17,15 @@ a {
 }
 
 #a {
-	color: #e07b00;
+	color: #c181d9;
 }
 
 #c {
-	color: #0bc;
+	color: #e191c9;
 }
 
 #b {
-	color: #ffaf87;
+	color: #9c4bc1;
 }
 
 #k {
